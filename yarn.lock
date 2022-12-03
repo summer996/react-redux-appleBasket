@@ -1702,6 +1702,11 @@ babel-types@^6.0.0, babel-types@^6.18.0, babel-types@^6.26.0:
     lodash "^4.17.4"
     to-fast-properties "^1.0.3"
 
+babel@^6.23.0:
+  version "6.23.0"
+  resolved "https://registry.npmmirror.com/babel/-/babel-6.23.0.tgz#d0d1e7d803e974765beea3232d4e153c0efb90f4"
+  integrity sha512-ZDcCaI8Vlct8PJ3DvmyqUz+5X2Ylz3ZuuItBe/74yXosk2dwyVo/aN7MCJ8HJzhnnJ+6yP4o+lDgG9MBe91DLA==
+
 babylon@^6.18.0:
   version "6.18.0"
   resolved "https://registry.yarnpkg.com/babylon/-/babylon-6.18.0.tgz#af2f3b88fa6f5c1e4c634d1a0f8eac4f55b395e3"
@@ -2895,9 +2900,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.0.1"
@@ -4638,6 +4643,11 @@ immer@1.10.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/immer/-/immer-1.10.0.tgz#bad67605ba9c810275d91e1c2a47d4582e98286d"
   integrity sha512-O3sR1/opvCDGLEVcvrGTMtLac8GJ5IwZC4puPrLuRj3l7ICKvkmA0vGuU9OW8mV9WIBRnaxp5GJh9IEAaNOoYg==
+
+immutable@^4.0.0-rc.12:
+  version "4.1.0"
+  resolved "https://registry.npmmirror.com/immutable/-/immutable-4.1.0.tgz#f795787f0db780183307b9eb2091fcac1f6fafef"
+  integrity sha512-oNkuqVTA8jqG1Q6c+UglTOD1xhC1BtjKI7XkCXRkZHrN5m18/XsnUp8Q89GkQO/z+0WjonSvl0FLhDYftp46nQ==
 
 import-cwd@^2.0.0:
   version "2.1.0"
